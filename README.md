@@ -3,7 +3,7 @@
     * Inicio.html
     * Funcionalidades.html
     * Registros.html <br>
-##Con eso tenemos la estructura de la pagina <br>
+#Con eso tenemos la estructura de la pagina <br>
 
 * Ahora ejecutamos los scripts de javascript de la siguiente manera
     * FuncionesLogicas.js
