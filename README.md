@@ -3,6 +3,6 @@
     * Inicio.html
     * Funcionalidades.html
     * Registros.html
-  Con esto tenemos la estructura de la pagina
+Con esto tenemos la estructura de la pagina
 * ccc
 * cc
