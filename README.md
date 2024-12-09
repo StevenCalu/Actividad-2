@@ -1,5 +1,6 @@
 # Explicacion 
-* Como primero vamos a ejecutar los archivos html en el siguiente orden :
+* Como primero vamos a abrir la carpeta ACTIVIDAD2 en cualquier software ya que dentro de ella esta todos los archivos para ejecutar la actividad
+* Luego vamos a ejecutar los archivos html en el siguiente orden :
     * Inicio.html
     * Funcionalidades.html
     * Registros.html <br>
