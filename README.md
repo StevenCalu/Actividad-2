@@ -1,5 +1,5 @@
 # Explicacion 
-* Como primero vamos a abrir la carpeta ACTIVIDAD2 en cualquier software ya que dentro de ella esta todos los archivos para ejecutar la actividad
+* Como primero vamos a abrir la carpeta ACTIVIDAD2 en Visual Studio Code ya que dentro de ella esta todos los archivos para ejecutar la actividad
 * Luego vamos a ejecutar los archivos html en el siguiente orden :
     * Inicio.html
     * Funcionalidades.html
