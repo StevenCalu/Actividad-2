@@ -12,7 +12,7 @@ Con eso tenemos la estructura de la pagina <br>
 Con esto tnemos la funcionalidad de lo solicitado en la actividad <br>
 
 * Por ultimo ejecutamos los archivos css de la siguiente manera:
-     * EstiloFuncionalidades.css
      * EstiloInicio.css
+     * EstiloFuncionalidades.css
      * EstiloRegistroa.css <br>
 Con esto tenemos los estilos para toda las paginas solicitadas 
