@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="STYLES/EstiloRegistroa.css">
+    <script src="SCRIPTS/Usuarios.js" defer></script>
+    <title>Funcionalidades Lógicas</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="Inicio.html">Inicio</a></li>
+                <li><a href="Funcionalidades.html">Funcionalidades Lógicas</a></li>
+                <li><a href="Registros.html">Registro de Usuarios</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+
+        <section id="registro">
+            <h1>Registro de Usuarios</h1>
+            <form id="form-registro">
+              <label>ID: <input type="text" id="id" required></label><br>
+              <label>Cédula de Identidad: <input type="text" id="cedula" required></label><br>
+              <label>Nombres y Apellidos: <input type="text" id="nombres" required></label><br>
+              <label>Fecha de Nacimiento: <input type="date" id="fecha-nacimiento" required></label><br>
+              <label>Ciudad de Procedencia:
+                <select id="ciudad">
+                  <option value="Quito">Quito</option>
+                  <option value="Guayaquil">Guayaquil</option>
+                  <option value="Cuenca">Cuenca</option>
+                  <option value="Ambato">Ambato</option>
+                  <option value="Loja">Loja</option>
+                </select>
+              </label><br>
+              <button type="button" id="btn-registrar">Registrar</button>
+            </form>
+          </section>
+    </main>
+</body>
+</html>
+
+
+
+ 
